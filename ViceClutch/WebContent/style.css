@@ -1,0 +1,49 @@
+body{
+	scroll-snap-type: y mandatory;
+	overflow-y: scroll;
+	
+}
+
+* {
+	cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur116.cur),progress;
+}
+#aboutEvent {
+	padding:15vh;
+	background-color:#303030;
+	width:100vw;
+	height:100vh;
+	scroll-snap-align:start;
+}
+
+#aboutUs {
+	padding:15vh;
+	background-color:#f2fdff;
+	width:100vw;
+	height:100vh;
+	scroll-snap-align:start;
+}
+
+#register {
+	padding:15vh;
+	background-color:#dcedff;
+	width:100vw;
+	height:100vh;
+	scroll-snap-align:start;
+}
+
+#gallery {
+	padding:15vh;
+	background-color:#564787;
+	width:100vw;
+	height:100vh;
+	scroll-snap-align:start;
+}
+
+#particles-js {
+	
+	background-image:url('Images/back.jpg');
+	width:100vw;
+	height:100vh;
+	
+}
+
